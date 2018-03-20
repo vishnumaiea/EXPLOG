@@ -1,4 +1,4 @@
-# EXPLOG
+# EXPLOG : Exploration Logger
 EXPLOG is a battery powered, modular and portable sensor package/device. It can monitor and log various navigation and weather parameters such as accurate GPS location, direction, speed, acceleration, temperature, pressure, altitude, humidity, air quality, noise level, light intensity, proximity and orientation simultaneously. The saved data can be exported to a computer via USB or WiFi and also an on-board LoRa tranceiver allows for data sharing between devices and remote datat acquisition. It can be used for research, sports performance analysis, can function as a portable weather station and a surveillance device. 
 
 The name is a wordplay on "exploration" and "logger". 
