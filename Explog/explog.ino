@@ -11,8 +11,8 @@
 //                                                                    //
 //  Author : Vishnu M Aiea                                            //
 //  Website : www.vishnumaiea.in                                      //
-//  Date created : 2:53 PM 27-09-2017, Wednesday                      //
-//  Last modified : 9:02 PM 13-03-2018, Tuesday                       //
+//  Date created : IST 2:53 PM 27-09-2017, Wednesday                  //
+//  Last modified : IST 9:02 PM 13-03-2018, Tuesday                   //
 //  File version : 1.0                                                //
 //                                                                    //
 //  This was ported from ESp8266-NodeMCU                              //
@@ -300,7 +300,7 @@ void loop() {
     if(currentButton == BUTTON_RIGHT) currentPageId = PAGE_TIME;
     if(currentButton == BUTTON_LEFT) currentPageId = PAGE_DEFAULT;
   }
-  
+
   // if(gpsSerial.available())
   // Serial.print(gpsSerial.readStringUntil('*'));
 
